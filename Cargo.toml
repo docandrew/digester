@@ -1,0 +1,6 @@
+[package]
+name = "digester"
+version = "0.1.0"
+authors = ["doc"]
+
+[dependencies]
